@@ -5,7 +5,7 @@ Insurance Protocol for DeFi
 
 ## Project Description
 DeFi Insurance Protocol is a decentralized insurance solution built on Core Chain for protecting users against various risks in the decentralized finance ecosystem. This protocol allows users to purchase coverage against specific DeFi risks such as smart contract failures, protocol hacks, and stablecoin depegging events. Capital providers can stake assets to back these insurance policies, earning premiums for taking on risk.
-
+.
 The protocol implements a risk assessment system to evaluate different DeFi protocols and determine appropriate premium costs. By promoting greater security in the DeFi ecosystem, this insurance protocol aims to increase user confidence and accelerate adoption of decentralized finance services.
 
 ## Project Vision
